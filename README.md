@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BED8FF&height=230&section=header&text=Hi%20There!&fontSize=50&fontColor=ffffff" />
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=BED8FF&height=230&section=header&text=Hi%20There!&fontSize=50&fontColor=ffffff" /></p>
 
 
 <h2 align="center"> I'm Juye ☺️ </h2>
