@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=BED8FF&height=230&section=header&text=Hi%20There!&fontSize=50&fontColor=ffffff)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BED8FF&height=230&section=header&text=Hi%20There!&fontSize=50&fontColor=ffffff" />
 
 
 <h2 align="center"> I'm Juye ☺️ </h2>
